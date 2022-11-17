@@ -1,0 +1,22 @@
+{
+  "name": "pdsw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/factory/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "knex": "^2.3.0",
+    "sequelize": "^6.25.6",
+    "sqlite3": "^5.1.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/knex": "^0.16.1"
+  }
+}
